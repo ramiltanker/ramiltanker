@@ -19,3 +19,6 @@
 ### Follow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/niceguygg)
+
+[![Ramil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramiltanker&hide=stars,contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiltanker&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
